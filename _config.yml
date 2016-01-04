@@ -1,7 +1,7 @@
 name: I Love Estonia
 favicon: null
 layout_spectrum: 0.49282
-typography_spectrum: 0.9399
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#e5ba87'
     - '#d43e59'
     - '#bd0b29'
-  brandStrength: 1
+  brandStrength: 0.3125
   lightness: 0.875
   saturation: 0.375
   rhythmicContrast: 1
