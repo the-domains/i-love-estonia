@@ -19,10 +19,10 @@ related:
     thumbnail_url: 'http://www.copyblogger.com/images/2015/07/algorithm-writing.jpg'
     thumbnail_width: 650
 publisher:
-  url: 'http://www.theguardian.com'
   name: the Guardian
-  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
   domain: www.theguardian.com
+  url: 'http://www.theguardian.com'
+  favicon: 'https://assets.guim.co.uk/images/favicons/79d7ab5a729562cebca9c6a13c324f0e/32x32.ico'
 keywords:
   - human
   - email
@@ -43,13 +43,15 @@ app_links:
     app_name: The Guardian
 isBasedOnUrl: 'http://www.theguardian.com/small-business-network/2015/oct/15/ai-invasion-workers-problem-solve-adapt-job-robot'
 title: 'AI invasion will allow workers to empathise, problem-solve and adapt'
-datePublished: '2016-01-04T15:21:22.504Z'
-dateModified: '2016-01-04T15:20:13.828Z'
+datePublished: '2016-02-01T21:04:39.243Z'
+dateModified: '2016-02-01T21:04:35.879Z'
 sourcePath: _posts/2016-01-04-ai-invasion-will-allow-workers-to-empathise-problem-solve-a.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
