@@ -43,7 +43,7 @@ app_links:
     app_name: The Guardian
 isBasedOnUrl: 'http://www.theguardian.com/small-business-network/2015/oct/15/ai-invasion-workers-problem-solve-adapt-job-robot'
 title: 'AI invasion will allow workers to empathise, problem-solve and adapt'
-datePublished: '2016-02-01T21:04:39.243Z'
+datePublished: '2016-02-01T21:04:39.262Z'
 dateModified: '2016-02-01T21:04:35.879Z'
 sourcePath: _posts/2016-01-04-ai-invasion-will-allow-workers-to-empathise-problem-solve-a.md
 published: true
