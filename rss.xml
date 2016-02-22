@@ -4,7 +4,7 @@
         <description><![CDATA[I Love Estonia]]></description>
         <link>https://thegrid.ai/i-love-estonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 02:36:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 12:51:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/i-love-estonia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI invasion will allow workers to empathise, problem-solve and adapt]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 21:04:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Grid Website Platform Automatically Adapts Design To Make Your Content Shine]]></title>
+            <description><![CDATA[<article><h1>The Grid Website Platform Automatically Adapts Design To Make Your Content Shine</h1><p>Video Do websites dream of electric designers? Can web content know itself? The Grid, a San Francisco startup, is changing the way websites are designed by radically changing the role of the designer. This new platform uses machine learning combined with constraint-based design and flow-based programming to make form dynamically adapt to content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d707136fef767327eed28d56f0a688bc0d9047e2.jpg"></article>]]></description>
+            <link>http://www.forbes.com/sites/anthonykosner/2014/10/15/the-grid-website-platform-automatically-adapts-design-to-make-your-content-shine/#676824d82cbf</link>
+            <guid isPermaLink="false">03c1d82a-099c-4b04-b61d-ca2b0a38a63a</guid>
+            <pubDate>Mon, 22 Feb 2016 12:51:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[How a 3-D Printer May Have Changed the Outcome of Super Bowl 50]]></title>
-            <description><![CDATA[<article><h1>How a 3-D Printer May Have Changed the Outcome of Super Bowl 50</h1><p>A few minutes after the Carolina Panthers punched their ticket to Super Bowl 50 with a blowout win over the Arizona Cardinals, reporters asked stud linebacker Thomas Davis how his arm was feeling. "Yeah, it's broken," he replied He'd run into Arizona tight end Daniel Fells, who jumped and kneed Davis in the right forearm.</p><img src="http://www.wired.com/wp-content/uploads/2016/02/sb50-brace-3dprinting1-1200x630.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>How a 3-D Printer May Have Changed the Outcome of Super Bowl 50</h1><p>A few minutes after the Carolina Panthers punched their ticket to Super Bowl 50 with a blowout win over the Arizona Cardinals, reporters asked stud linebacker Thomas Davis how his arm was feeling. "Yeah, it's broken," he replied He'd run into Arizona tight end Daniel Fells, who jumped and kneed Davis in the right forearm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e021088386c40707f1f7d0a77ff0cb3f488ab4f.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/02/how-a-3-d-printer-may-have-changed-the-outcome-of-super-bowl-50/</link>
             <guid isPermaLink="false">0f6a9bcd-f194-41c0-b0d2-c1e3ae51293b</guid>
             <pubDate>Sat, 06 Feb 2016 02:35:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://blogs.wsj.com/digits/2015/12/03/artificial-intelligence-ethics-a-new-focus-at-cambridge-university/?mod=ST1</link>
             <guid isPermaLink="false">ee0618c3-bdcd-419d-b71b-44452d5cb96b</guid>
             <pubDate>Mon, 04 Jan 2016 15:18:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How This Company Creates Instant Websites]]></title>
-            <description><![CDATA[<article><h1>How This Company Creates Instant Websites</h1><p>This story first appeared in the December 2015 issue of Entrepreneur . To receive the magazine, click here to subscribe. When photographer Benjamin Edwards wants to update his website, all he has to do is load a new picture onto his phone; drag it into his web host, The Grid; and voilà, the program loads it onto his home-page and rearranges and recolors the entire site to work with the new image.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da8ed3fdc6886988067689f220734279d88653e7.jpg"></article>]]></description>
-            <link>http://www.entrepreneur.com/article/252645</link>
-            <guid isPermaLink="false">700a8c49-a0b1-4b21-8096-49a0bba3bca3</guid>
-            <pubDate>Mon, 04 Jan 2016 14:57:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
