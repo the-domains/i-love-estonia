@@ -1,9 +1,7 @@
-favicon: null
 name: I Love Estonia
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.5680851
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
-color:
-  saturation: 0.6875
-  brandStrength: 0.5625
-  rhythmicContrast: 1
-  brandColors:
-    - '#010101'
-    - '#ff0000'
-    - '#fdfdfd'
-    - '#c8bdb3'
-    - '#653a1d'
-  lightness: 0.8125
-typography_spectrum: 1
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
-layout_spectrum: 0.5680851
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#fae9c8'
+    - '#0e327b'
+    - '#197fa6'
+    - '#25cfb3'
+    - '#fa759f'
+  brandStrength: 0.875
+  lightness: 0.375
+  saturation: 0.5625
+  rhythmicContrast: 1
+purpose: []
