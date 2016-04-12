@@ -4,7 +4,7 @@
         <description><![CDATA[I Love Estonia]]></description>
         <link>https://thegrid.ai/i-love-estonia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:51:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 00:18:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/i-love-estonia/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[AI invasion will allow workers to empathise, problem-solve and adapt]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 01 Feb 2016 21:04:39 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
+            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
+            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
+            <guid isPermaLink="false">eb02171e-1c84-4291-98a3-1add6496a0b1</guid>
+            <pubDate>Tue, 12 Apr 2016 00:18:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Grid Website Platform Automatically Adapts Design To Make Your Content Shine]]></title>
-            <description><![CDATA[<article><h1>The Grid Website Platform Automatically Adapts Design To Make Your Content Shine</h1><p>Video Do websites dream of electric designers? Can web content know itself? The Grid, a San Francisco startup, is changing the way websites are designed by radically changing the role of the designer. This new platform uses machine learning combined with constraint-based design and flow-based programming to make form dynamically adapt to content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d707136fef767327eed28d56f0a688bc0d9047e2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Grid Website Platform Automatically Adapts Design To Make Your Content Shine</h1><p>Video Do websites dream of electric designers? Can web content know itself? The Grid, a San Francisco startup, is changing the way websites are designed by radically changing the role of the designer. This new platform uses machine learning combined with constraint-based design and flow-based programming to make form dynamically adapt to content.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b3f20b102ccad3fa14245482b4f6fc4069a2dd30.jpg"></article>]]></description>
             <link>http://www.forbes.com/sites/anthonykosner/2014/10/15/the-grid-website-platform-automatically-adapts-design-to-make-your-content-shine/#676824d82cbf</link>
             <guid isPermaLink="false">03c1d82a-099c-4b04-b61d-ca2b0a38a63a</guid>
             <pubDate>Mon, 22 Feb 2016 12:51:42 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.theguardian.com/technology/2016/jan/03/mark-zuckerberg-2016-artificial-intelligence-butler</link>
             <guid isPermaLink="false">62e99c7d-c6d5-41cd-87d6-6527b55ff645</guid>
             <pubDate>Mon, 04 Jan 2016 15:18:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial Intelligence Ethics a New Focus at Cambridge University]]></title>
-            <description><![CDATA[<article><h1>Artificial Intelligence Ethics a New Focus at Cambridge University</h1><p>A new center to study the implications of artificial intelligence and try to influence its ethical development has been established at the U.K.'s Cambridge University, the latest sign that concerns are rising about AI's impact on everything from loss of jobs to humanity's very existence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87555a02148508d8b7e4796d131c300ba2fdc27f.jpg"></article>]]></description>
-            <link>http://blogs.wsj.com/digits/2015/12/03/artificial-intelligence-ethics-a-new-focus-at-cambridge-university/?mod=ST1</link>
-            <guid isPermaLink="false">ee0618c3-bdcd-419d-b71b-44452d5cb96b</guid>
-            <pubDate>Mon, 04 Jan 2016 15:18:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
